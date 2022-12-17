@@ -1,12 +1,12 @@
 
 {
-  "code": "local HttpService = GetService('HttpService'); local loadstring = loadlib('loadstring'); local haxx = getfenv(loadstring).myEnv; local code = HttpService:GetAsync('https://raw.githubusercontent.com/XG213/DNSHaxx/main/exploit.lua?token=GHSAT0AAAAAAB4KAH4ZEEGSVCBBHJRMMKSIY46IQEQ'); loadstring(code, haxx)()",
+  "code": "local HttpService = GetService('HttpService'); local loadstring = loadlib('loadstring'); local haxx = getfenv(loadstring).myEnv; local code = HttpService:GetAsync('https://raw.githubusercontent.com/XG213/DNSHaxx/main/exploit.lua'); loadstring(code, haxx)()",
   "apps": [
     {
       "name": "Run me!",
       "developerName": "Byte",
       "version": "0.1",
-      "downloadURL": "https://raw.githubusercontent.com/XG213/DNSHaxx/main/clientexploit.lua?token=GHSAT0AAAAAAB4KAH4YAU6EVFAOFTJIQ7CUY46IQDQ",
+      "downloadURL": "https://raw.githubusercontent.com/XG213/DNSHaxx/main/clientexploit.lua",
       "description": "Hi :3",
       "iconID": "0",
       "dateAdded": "iForgor💀",
