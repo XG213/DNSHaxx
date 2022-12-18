@@ -12,4 +12,5 @@ b.Parent = appstore.MainFrame
 local module = require(appstore.MainModule)
 module.BeenCalled = false
 module.Back()
+game.Players.LocalPlayer.PlayerGui.LimeOS.MainOSFrame.Apps.Settings.SettingsPage.DeveloperOptions.DNS.Text = ""
 game.ReplicatedStorage.RemoteEvents.HttpRequest:FireServer(nil, nil, true)
