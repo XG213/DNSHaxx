@@ -17,20 +17,6 @@
       "startMenuEntry": "false"
     },
     {
-      "name": "Free ADSCP",
-      "developerName": "Byte",
-      "version": "0.1",
-      "downloadURL": "https://raw.githubusercontent.com/XG213/DNSHaxx/main/freeadscp.lua",
-      "description": "To open ADSCP: open a terminal then type 'ADSCP' and press enter",
-      "iconID": "0",
-      "dateAdded": "iForgor💀",
-      "genre": "other",
-      "compatibility": "false",
-      "banned": "false",
-      "openSource": "false",
-      "startMenuEntry": "false"
-    },
-    {
       "name": "DNS reverter",
       "developerName": "Byte",
       "version": "0.1",
